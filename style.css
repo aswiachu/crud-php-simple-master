@@ -1,0 +1,40 @@
+  /* Optional custom styles */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+
+table {
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+table th, table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+table th {
+    background-color: #f0f0f0;
+    text-align: left;
+}
+.btn {
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+.btn-edit {
+    background-color: #007bff;
+    color: #fff;
+}
+.btn-delete {
+    background-color: #dc3545;
+    color: #fff;
+}
